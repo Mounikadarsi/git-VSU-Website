@@ -1,0 +1,26 @@
+.demo1
+{
+    color:blue;
+}
+.demo2
+{
+    color:blueviolet;
+    font-weight:bold;
+}
+.demo3
+{
+    color:blueviolet;
+    line-height:0%;
+}
+.demo4
+{
+    background-color:aquamarine;
+    height: 40px;
+    
+}
+/* Assuming you have an image with the class name "image-container" */
+.image-container {
+    float: left; /* This will make the image float to the left */
+    margin-right: 10px; /* Add some spacing between images */
+    background-position: center;
+}
